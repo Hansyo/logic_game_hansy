@@ -23,7 +23,7 @@ void draw() {
   draw_split_line(split_width_pixel); 
   draw_hint();
   draw_mouse_rect();
-  //win_game();
+  win_game();
 }
 
 void draw_split_line(int split_width_pixel) {
